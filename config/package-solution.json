@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "create-release-automation-client-side-solution",
+    "id": "8e2f16ac-2b7d-41f3-a8ef-963409f2b53b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "CreateReleaseAutomation description"
+      },
+      "longDescription": {
+        "default": "CreateReleaseAutomation description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "create-release-automation Feature",
+        "description": "The feature that activates elements of the create-release-automation solution.",
+        "id": "e5250680-8e3a-451d-85a6-dfb3224df4fb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/create-release-automation.sppkg"
+  }
+}

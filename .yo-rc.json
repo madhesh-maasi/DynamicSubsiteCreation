@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "create-release-automation",
+    "libraryId": "8e2f16ac-2b7d-41f3-a8ef-963409f2b53b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CreateReleaseAutomation",
+    "solutionShortDescription": "CreateReleaseAutomation description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
